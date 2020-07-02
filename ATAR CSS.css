@@ -1,0 +1,43 @@
+/*selector {
+	Proprty: value;
+}*/
+
+h1{
+	color: Green
+	font-family: "tahoma"
+	font-size: 4em
+	text-align: center;
+}
+
+h2{
+	color: #007932
+	font-family: "tahoma", "arial";
+	font-size: 3em;
+	text-align: center;
+}
+
+p {
+	color: black
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px
+    font-family: arial, italics;
+}
+
+button{
+	display: inline-flex;
+	justify-content: flex-end;
+	color: #007932
+	 margin-inline-end: 5px;
+		
+
+footer {
+		clear: both;
+		text-align: center;
+		color: black
+		
+
+
+}
